@@ -1,0 +1,15 @@
+name: trash
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - python
+  - datasets
+  - pillow
+  - pytorch
+  - torchvision
+prefix: /opt/miniconda3/envs/trash
